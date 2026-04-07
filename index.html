@@ -40,7 +40,6 @@
     "content_current_page": 1
 });</script>   
 
-
 <title>JONOTOTO: Strategi Jitu Mengatur Pola Bermain Game Online Agar Konsisten Hari Ini</title>
 <link href="//securepubads.g.doubleclick.net" rel="dns-prefetch">
 <link href="//asset.kompas.com" rel="dns-prefetch">
@@ -107,8 +106,8 @@
 <link rel="preload" as="image" href="https://s13.gifyu.com/images/bqMXo.png">
 
 <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
-<meta name="google-site-verification" content="sKwclXWebW-l-RXQ5HIVNtUhMh7BR6jZ3XSUalBwbP0" />
-<meta name="google-site-verification" content="b21iuqQ3ghlGgbdYPY9fDVz-8SQuaqvfCRAf1KZW6ac" />
+<meta name="google-site-verification" content="OlywRAXdpHkKt5_MbMyxEi11AN3VuTyrgIOKQys636E" />
+<meta name="google-site-verification" content="f0gMwgX9Icz3v4oDC-B08-nLsd2baePXzDgTHvghAww" />
 
 <link rel="canonical" href="https://jonototo-it.github.io/" />
 <link rel="dns-prefetch" href="twitter.com">
@@ -184,7 +183,6 @@ window.jixie_o = {
 		node.parentNode.insertBefore(gads, node);
 	})();
 </script> 
-
 
 
 <script type="text/javascript">
@@ -2024,7 +2022,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
             </a>
 </div>
     </div>
-    </script> 
+        
 </div>
        <style>
 .faq-container{
